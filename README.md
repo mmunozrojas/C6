@@ -1,4 +1,4 @@
-# vue_drilling_m6s6
+# C6
 
 ## Project setup
 ```
